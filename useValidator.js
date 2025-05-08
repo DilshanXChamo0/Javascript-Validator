@@ -17,6 +17,5 @@ function main() {
      console.log(phoneIsValid);
 }
 
-
 // Main method call
 main();
