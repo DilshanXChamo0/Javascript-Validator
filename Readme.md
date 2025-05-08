@@ -1,4 +1,4 @@
-# 📦 Validator.js
+# 📦 Validator.JS
 
 A simple and customizable JavaScript class for validating **emails**, **passwords**, and **phone numbers**.  
 Easily extendable with support for multiple countries — includes built-in validation for **Sri Lanka** and **USA** phone numbers.
